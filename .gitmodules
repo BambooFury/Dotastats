@@ -67,3 +67,6 @@
 [submodule "plugins/steam-change-window-params"]
 	path = plugins/steam-change-window-params
 	url = https://github.com/ricewind012/steam-change-window-params
+[submodule "plugins/steam-streak"]
+	path = plugins/steam-streak
+	url = https://github.com/BambooFury/steam-streak
